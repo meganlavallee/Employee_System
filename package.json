@@ -1,0 +1,25 @@
+{
+  "name": "Employee_System",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meganlavallee/Employee_System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meganlavallee/Employee_System/issues"
+  },
+  "homepage": "https://github.com/meganlavallee/Employee_System#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1",
+    "node": "^15.4.0"
+  }
+}
